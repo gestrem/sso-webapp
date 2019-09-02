@@ -1,0 +1,33 @@
+{
+  "name": "sso-webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gestrem/sso-webapp.git"
+  },
+  "author": "gestrem@redhat.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gestrem/sso-webapp/issues"
+  },
+  "homepage": "https://github.com/gestrem/sso-webapp#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "express": "^4.17.1",
+    "express-session": "^1.16.2",
+    "github-api": "^3.2.3",
+    "hogan-express": "^0.5.2",
+    "https": "^1.0.0",
+    "jwt-decode": "^2.2.0",
+    "keycloak-connect": "^7.0.0",
+    "parse-multipart": "^1.0.4",
+    "path": "^0.12.7",
+    "patternfly": "^3.59.3",
+    "var_dump": "^1.0.5"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "realm": "github-sso",
+  "auth-server-url": "https://secure-sso-sso-72.ge-apps.openhybridcloud.io/auth",
+  "ssl-required": "external",
+  "resource": "nodejs",
+  "public-client": true,
+  "confidential-port": 0
+}
