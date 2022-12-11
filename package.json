@@ -19,7 +19,7 @@
   "homepage": "https://github.com/gestrem/sso-webapp#readme",
   "dependencies": {
     "bootstrap": "^3.4.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-session": "^1.16.2",
     "github-api": "^3.2.3",
     "hogan-express": "^0.5.2",
